@@ -1,0 +1,19 @@
+Analysis,Value
+1: Top Quartile ARC (All),21.4046956872658
+1: Top Quartile ARC (Elementary),19.6660349811856
+1: Top Quartile ARC (Secondary),26.5391743662591
+2: Secondary CI Lower,15.3120780811453
+2: Secondary CI Upper,21.8970332830176
+2: Elementary CI Lower,12.2073147523127
+2: Elementary CI Upper,15.398464916232
+3: T-Test p-value,1.21715143140997e-08
+3: Mean ARC High Absent,21.1979355163396
+3: Mean ARC Low Absent,12.5337582845905
+4: Adj R-squared (Full),0.770848863414152
+4: Adj R-squared (Full Stepwise),0.77532227666917
+4: Adj R-squared (Elementary),0.707288109194038
+4: Adj R-squared (Elementary Stepwise),0.721148042358881
+4: Adj R-squared (Secondary),0.806637213493337
+4: Adj R-squared (Secondary Stepwise),0.809221281400946
+4: Full Significant Predictors,"prop_homeless, prop_academic_underperformance, prop_incarceration_delinquency, prop_teen_pregnancy"
+4: Elementary Significant Predictors,prop_academic_underperformance

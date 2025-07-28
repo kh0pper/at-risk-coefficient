@@ -1,0 +1,121 @@
+campus_id,school_level,total_students,economic_disadvantage,homeless,foster_care,migrant,ell,academic_underperformance,incarceration_delinquency,teen_pregnancy,chronic_absenteeism,X..Attendance
+Akins Early College High School,high school,2345,1460,52,9,1,863,1669,50,3,11.39,88.61
+Allison Elementary,elementary school,368,200,9,3,0,140,172,0,0,6.23,93.77
+Alternative Learning Center,special,122,100,6,1,0,44,160,32,0,23.22,76.78
+Anderson High School,high school,2159,600,23,3,0,292,962,33,0,6.1,93.9
+Andrews Elementary,elementary school,312,200,10,0,0,243,129,0,0,4.98,95.02
+Ann Richards School for Young Women Leaders,special,908,200,5,3,0,164,202,2,0,2.08,97.92
+Austin High School,high school,2265,590,11,4,0,222,815,29,0,4.78,95.22
+Austin ISD PreK Partnership PKP,special,184,50,9,2,0,52,0,0,0,15.31,84.69
+Austin State Hospital,special,23,5,0,0,0,0,1,2,0,0,100
+Bailey Middle School,middle school,769,300,7,1,0,86,368,2,0,3.13,96.87
+Baldwin Elementary,elementary school,580,100,4,0,0,79,55,1,0,1.78,98.22
+Baranoff Elementary,elementary school,807,150,3,2,0,55,101,0,0,1.86,98.14
+Barrington Elementary,elementary school,391,300,33,1,0,283,141,0,0,4.68,95.32
+Barton Hills Elementary,elementary school,286,50,1,0,0,5,24,0,0,1.32,98.68
+Bear Creek Elementary,elementary school,523,150,2,1,0,87,57,0,0,1.62,98.38
+Becker Elementary,elementary school,508,300,3,0,0,252,107,0,0,2.16,97.84
+Bedichek Middle School,middle school,639,400,24,1,1,305,430,11,0,6.66,93.34
+Bertha Sadler Means Young Women's Leadership Academy,middle school,264,200,9,1,1,172,197,0,2,6.4,93.6
+Blackshear Elementary,elementary school,205,50,6,1,0,10,46,0,0,4.33,95.67
+Blanton Elementary,elementary school,739,335,16,0,0,236,158,0,0,3.77,96.23
+Blazier Elementary,elementary school,1270,695,27,3,0,394,408,2,0,3.68,96.32
+Boone Elementary,elementary school,423,154,2,3,0,47,81,0,0,2.57,97.43
+Bowie High School,high school,2850,433,21,3,0,174,707,64,0,3.43,96.57
+Brentwood Elementary,elementary school,683,101,5,0,0,26,86,0,0,2.03,97.97
+Bryker Woods Elementary,elementary school,283,35,1,2,0,18,31,0,0,1.72,98.28
+Burnet Middle School,middle school,795,714,31,1,0,613,588,20,0,6.89,93.11
+Campbell Elementary,elementary school,188,121,17,0,0,30,57,1,0,5.21,94.79
+Casey Elementary,elementary school,543,309,11,3,0,136,122,0,0,3.39,96.61
+Casis Elementary,elementary school,644,50,6,0,0,18,56,0,0,2.2,97.8
+Clayton Elementary,elementary school,647,100,1,0,0,57,49,0,0,1.63,98.37
+Cook Elementary,elementary school,409,300,3,2,0,314,164,0,0,5.21,94.79
+Covington Middle School,middle school,619,300,19,3,0,124,389,7,0,4.39,95.61
+Cowan Elementary,elementary school,557,150,10,1,0,46,104,0,0,2.62,97.38
+Crockett Early College High School,high school,1467,600,40,6,0,408,1143,43,2,10.95,89.05
+Cunningham Elementary,elementary school,341,150,16,1,0,78,79,0,0,2.75,97.25
+Davis Elementary,elementary school,661,200,8,0,0,109,135,0,0,3.36,96.64
+Dawson Elementary,elementary school,188,150,17,1,0,57,94,0,0,8.23,91.77
+Discipline Alternative Edu Pro (DAEP-EL),special,2,5,1,0,0,1,2,0,0,7.32,92.68
+Dobie Middle School,middle school,522,456,28,3,1,359,405,7,0,8.75,91.25
+Doss Elementary,elementary school,947,192,6,2,0,152,116,0,0,2.42,97.58
+Eastside Early College High School,high school,640,555,23,1,0,233,623,38,0,19.67,80.33
+Galindo Elementary,elementary school,416,367,18,2,0,259,174,1,0,4.77,95.23
+Garza Independence High School,special,143,35,10,0,0,21,256,10,7,30.7,69.3
+General Marshall Middle School,middle school,418,256,13,1,0,148,258,4,0,5.41,94.59
+Gorzycki Middle School,middle school,1289,111,0,1,0,100,260,0,0,1.44,98.56
+Govalle Elementary,elementary school,378,321,10,3,0,122,158,0,0,5.95,94.05
+Graham Elementary,elementary school,396,317,17,1,0,261,138,0,0,5.88,94.12
+Guerrero-Thompson Elementary,elementary school,533,503,8,1,0,439,200,0,0,3.77,96.23
+Gullett Elementary,elementary school,545,43,5,0,0,18,48,0,0,1.99,98.01
+Gus Garcia Young Men's Leadership Academy,middle school,242,228,8,0,0,178,185,1,0,3.79,96.21
+Harris Elementary,elementary school,278,231,15,1,0,179,100,0,0,7.55,92.45
+Hart Elementary,elementary school,582,300,13,5,0,427,213,0,0,4.8,95.2
+Highland Park Elementary,elementary school,646,150,3,1,0,8,55,0,0,1.65,98.35
+Hill Elementary,elementary school,817,150,4,0,0,79,104,0,0,2.06,97.94
+Houston Elementary,elementary school,503,300,30,0,0,304,184,0,0,5,95
+International High School,high school,238,50,15,1,0,174,166,1,0,9.86,90.14
+Jordan Elementary,elementary school,499,300,14,1,0,290,213,0,0,6.69,93.31
+Joslin Elementary,elementary school,256,150,11,0,0,102,77,0,0,1.85,98.15
+Kealing Middle School,middle school,1195,200,10,2,0,135,275,7,0,3.29,96.71
+Kiker Elementary,elementary school,755,150,0,0,0,63,81,0,0,1.71,98.29
+Kocurek Elementary,elementary school,493,300,25,2,0,107,130,0,0,3.56,96.44
+Lamar Middle School,middle school,1109,200,10,0,0,115,291,1,0,2.66,97.34
+Langford Elementary,elementary school,414,300,7,1,0,261,182,1,0,6.12,93.88
+LBJ Early College High School,high school,695,300,24,1,1,329,510,15,2,16.47,83.53
+Leadership Academy,special,24,50,0,1,0,5,15,10,0,0,100
+Lee Elementary,elementary school,427,150,1,4,0,24,52,0,0,2.16,97.84
+Liberal Arts and Science Academy,special,1596,200,3,1,0,72,88,3,0,1.63,98.37
+Linder Elementary,elementary school,611,300,21,1,1,375,279,0,0,7.12,92.88
+Lively Middle School,middle school,914,200,33,4,0,418,493,7,0,7.02,92.98
+Maplewood Elementary,elementary school,405,99,10,0,0,25,63,0,0,2.57,97.43
+Martin Middle School,middle school,231,191,23,1,0,103,194,6,0,13.32,86.68
+Mathews Elementary,elementary school,366,116,5,2,0,50,73,0,0,3.04,96.96
+McBee Elementary,elementary school,340,303,2,0,0,264,132,0,0,6.02,93.98
+McCallum High School,high school,1877,440,22,4,0,156,623,31,0,6.15,93.85
+Menchaca Elementary,elementary school,692,287,10,0,0,178,165,0,0,4.54,95.46
+Mendez Middle School,middle school,203,174,7,0,0,120,146,2,0,12.51,87.49
+Mills Elementary,elementary school,703,54,2,0,0,70,68,0,0,1.4,98.6
+Murchison Middle School,middle school,1219,343,16,3,0,225,449,2,0,2.6,97.4
+Navarro Early College High School,high school,1497,1382,28,5,3,1149,1445,31,7,15.85,84.15
+Norman-Sims Elementary,elementary school,283,211,32,1,0,80,92,0,0,6.88,93.12
+Northeast Early College High School,high school,907,600,31,0,0,597,1017,23,0,13.66,86.34
+O Henry Middle School,middle school,684,200,16,0,0,83,282,3,0,3.04,96.96
+Oak Hill Elementary,elementary school,623,300,4,0,0,250,173,0,0,4.01,95.99
+Oak Springs Elementary,elementary school,205,100,7,0,0,17,84,0,0,8.51,91.49
+Odom Elementary,elementary school,272,150,10,0,0,117,109,0,0,5.74,94.26
+Ortega Elementary,elementary school,226,150,24,0,0,109,108,0,0,4.61,95.39
+Overton Elementary,elementary school,428,300,13,1,0,273,166,0,0,5.13,94.87
+Padron Elementary,elementary school,609,500,22,3,0,516,269,0,0,4.39,95.61
+Palm Elementary,elementary school,322,200,12,1,0,167,86,0,0,4.43,95.57
+Paredes Middle School,middle school,642,400,11,0,0,249,444,5,0,7.04,92.96
+Patton Elementary,elementary school,739,200,10,6,0,125,139,1,0,2.55,97.45
+Pecan Springs Elementary,elementary school,269,150,16,1,1,110,105,1,0,8.46,91.54
+Perez Elementary,elementary school,495,300,14,2,1,296,182,0,0,4.82,95.18
+Pickle Elementary,elementary school,392,300,10,1,0,311,158,0,0,4.67,95.33
+Pillow Elementary,elementary school,349,200,6,0,0,189,117,0,0,4.86,95.14
+Pleasant Hill Elementary,elementary school,427,200,28,4,0,193,119,0,0,6.41,93.59
+Reilly Elementary,elementary school,335,200,7,2,0,176,98,0,0,3.04,96.96
+Ridgetop Elementary,elementary school,388,100,0,0,0,59,66,0,0,2.55,97.45
+Rodriguez Elementary,elementary school,375,200,18,0,0,171,164,0,0,8.02,91.98
+Rosedale School,special,177,150,6,0,0,33,202,0,0,5.95,94.05
+Sanchez Elementary,elementary school,459,300,47,1,0,319,202,0,0,4.24,95.76
+Small Middle School,middle school,1257,400,9,2,0,213,480,0,0,2.89,97.11
+St Elmo Elementary,elementary school,304,200,21,2,1,186,108,0,0,3.37,96.63
+Summitt Elementary,elementary school,762,300,1,2,0,229,103,0,0,2.09,97.91
+Sunset Valley Elementary,elementary school,435,200,3,1,0,233,89,0,0,2.83,97.17
+TA Brown Elementary,elementary school,490,400,13,5,0,346,228,0,0,6.67,93.33
+Travis County Juvenile Detention Center,special,40,26,3,0,0,8,38,18,0,0,100
+Travis County Juvenile Justice Educ Pro (JJAEP),special,12,8,0,0,0,3,15,8,0,9.76,90.24
+Travis Early College High School,high school,991,830,24,2,0,510,1173,38,4,21.25,78.75
+Travis Heights Elementary,elementary school,466,273,5,1,0,166,122,1,0,4.94,95.06
+Uphaus Early Childhood Center,special,265,173,4,1,1,136,11,0,0,4.72,95.28
+Walnut Creek Elementary,elementary school,481,431,9,3,1,375,184,0,0,4.14,95.86
+Webb Middle School,middle school,512,469,20,2,1,388,451,13,0,6.97,93.03
+Widen Elementary,elementary school,423,383,7,1,0,225,204,0,0,5.16,94.84
+Williams Elementary,elementary school,367,249,6,1,0,121,108,0,0,4.4,95.6
+Winn Montessori,elementary school,375,200,10,3,0,176,106,0,0,4.66,95.34
+Wooldridge Elementary,elementary school,439,300,10,1,2,332,203,0,0,5.93,94.07
+Wooten Elementary,elementary school,278,200,7,0,0,195,109,0,0,4.88,95.12
+Zavala Elementary,elementary school,222,150,10,0,0,51,80,0,0,8.5,91.5
+Zilker Elementary,elementary school,502,50,4,0,0,11,49,0,0,2.42,97.58
